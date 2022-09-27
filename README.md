@@ -1,8 +1,8 @@
-# Sample Hardhat Project
+# Blockchain Development George Brown College
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This Repo Include my class work at GBC while coding at Solidity Classes
 
-Try running some of the following tasks:
+To Run You Have to install HardHat :
 
 ```shell
 npx hardhat help
